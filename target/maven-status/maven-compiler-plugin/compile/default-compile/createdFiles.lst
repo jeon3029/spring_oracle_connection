@@ -1,2 +1,3 @@
 com\example\relationaldataaccess\RelationalDataAccessApplication.class
 com\example\relationaldataaccess\Customer.class
+com\example\relationaldataaccess\Emp.class
